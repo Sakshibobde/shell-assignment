@@ -1,9 +1,9 @@
 #!/bin/bash
 
-MYUSERNAME=rhegi
+MYUSERNAME=sakshi
 MYPASSWORD=xcvr
 STARTOFSCRIPT=$(date) 
-sleep 10
+
 ENDOFSCRIPT=$(date)
 
 echo $MYUSERNAME
